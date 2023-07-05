@@ -1,0 +1,22 @@
+.container{
+   height: 100vh;
+   /* border: 1px solid black; */
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.btn{
+    color: black;
+    background-color: rgb(9, 136, 247);
+    font-weight: bold;
+    height: 50px;
+    width: 100px;
+    font-size: large;
+    border-radius: 20px;
+}
+
+.btn:hover{
+    cursor: pointer;
+    background-color: coral;
+   }
